@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53216'
     url: http://www.gutenberg.org/2009/agents/53216
     wikipedia: https://en.wikipedia.org/wiki/Alex_Schomburg
+covers:
+- cover_type: archival
+  image_path: 69212-h/images/cover.jpg
 creator:
   author:
     agent_name: Sambrot, William
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '55166'
     url: http://www.gutenberg.org/2009/agents/55166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69212#Grounded
 gutenberg_issued: '2022-10-23'
 identifiers:
   gutenberg: '69212'
